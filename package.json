@@ -1,0 +1,21 @@
+{
+  "name": "wilton-2016",
+  "version": "1.0.0",
+  "description": "New responsive design for www.thewiltonco.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wilton-2016.git"
+  },
+  "author": "Shane Hussel",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^2.3.2"
+  }
+}

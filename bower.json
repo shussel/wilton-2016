@@ -1,0 +1,21 @@
+{
+  "name": "wilton-2016",
+  "description": "New responsive design for www.thewiltonco.com",
+  "main": "index.html",
+  "authors": [
+    "Shane Hussel"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
